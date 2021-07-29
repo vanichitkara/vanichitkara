@@ -16,10 +16,12 @@ I am a Web Developer and an Open Source enthusiast having a keen interest in Clo
 Data Structures and Algorithms in C++ and have taken up the [#100DaysOfCode](https://github.com/vanichitkara/100DaysOfCode) Challenge
 
 ### 📫 How to reach out to me:
-* Twitter: [@VaniChitkara](https://twitter.com/VaniChitkara)
-* LinkedIn: [vani-chitkara](https://www.linkedin.com/in/vani-chitkara/)
-
-### 😄 Pronouns: she/her/hers
+<p>
+<a target="_blank"href="https://twitter.com/VaniChitkara"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank"href="https://www.linkedin.com/in/vani-chitkara/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank"href="http://vanichitkara.wordpress.com/"><img src="https://img.shields.io/badge/wordpress-%231DA1F2.svg?&style=for-the-badge&logo=wordpress&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank"href="https://www.polywork.com/vanichitkara#/"><img src="https://img.shields.io/badge/polywork-%230077B5.svg?&style=for-the-badge&logo=polywork&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 ### 🚀 Time for some stats
 
