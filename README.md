@@ -8,9 +8,12 @@ I am a Web Developer and an Open Source enthusiast having a keen interest in Clo
 
 ### 💻 I’m currently working as
 
-* Outreachy Intern at [OpenArchive](https://github.com/OpenArchive) - One of the 71 interns selected worldwide for the May 2021 Cohort
 * Google Developer Student Club Lead at [GDSC IGDTUW](https://github.com/dscigdtuw) - One of the 200+ GDSC Leads across India for the academic year of 2021-22
 * Technical Lead at [Minerva, The Technical Forum of IGDTUW](https://github.com/Minerva-2020) - Heading a team of 4 associate web developers along with 2 other co-Leads for managing the [Minerva website](https://minerva-igdtuw.herokuapp.com/)
+
+### 💻 I previously worked as
+
+* Outreachy Intern at [OpenArchive](https://github.com/OpenArchive) - One of the 71 interns selected worldwide for the May 2021 Cohort
 
 ### 🌱 I'm currently studying 
 Data Structures and Algorithms in C++ and have taken up the [#100DaysOfCode](https://github.com/vanichitkara/100DaysOfCode) Challenge
