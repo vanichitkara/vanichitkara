@@ -1,4 +1,4 @@
-### Hello everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am Vani Chitkara
+### Hello everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="20px" width="20px"> I am Vani Chitkara
 
 ### ✨ About Me
 
