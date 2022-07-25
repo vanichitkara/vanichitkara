@@ -8,12 +8,14 @@ I am a Web Developer, Open Source conitrbutor and an aspiring Software Engineer 
 
 ### 💻 I’m currently working as
 
-* Software Engineer Intern at Microsoft <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" height="20px" width="20px">
-* Google Developer Student Club Lead at [GDSC IGDTUW](https://gdsc.community.dev/indira-gandhi-delhi-technical-university-for-women-delhi/) <img src="https://gdscgescoengg.live/assets/images/resources/4GDSClogo.png" height="20px" width="50px"> - One of the 350+ GDSC Leads across India for the academic year of 2021-22
-* Website management and comms team member at OpenArchive
+* @MLH-Fellowship Prep Fellow 🚀
+* Organizing Team Member at Hack The Mountains 3.0 🏔️
+* Website Management and Comms Team Member at OpenArchive 👩‍💻
 
 ### 💻 I previously worked as
 
+* Software Engineer Intern at Microsoft <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" height="20px" width="20px">
+* Google Developer Student Club Lead at [GDSC IGDTUW](https://gdsc.community.dev/indira-gandhi-delhi-technical-university-for-women-delhi/) <img src="https://gdscgescoengg.live/assets/images/resources/4GDSClogo.png" height="20px" width="50px"> - One of the 350+ GDSC Leads across India for the academic year of 2021-22
 * Outreachy Intern at [OpenArchive](https://github.com/OpenArchive) - One of the 71 interns selected worldwide for the May 2021 Cohort
 * Technical Lead at [Minerva, The Technical Forum of IGDTUW](https://github.com/Minerva-2020) - Heading a team of 4 associate web developers along with 2 other co-Leads for managing the [Minerva website](https://minervaforum.in/)
 
