@@ -8,9 +8,9 @@ I am a Web Developer, Open Source conitrbutor and an aspiring Software Engineer 
 
 ### 💻 I’m currently working as
 
-* @MLH-Fellowship Prep Fellow 🚀
-* Organizing Team Member at Hack The Mountains 3.0 🏔️
-* Website Management and Comms Team Member at OpenArchive 👩‍💻
+* [Major League Hacking](https://fellowship.mlh.io/) Prep Fellow August 2022 Batch 🚀
+* Organizing Team Member at [Hack The Mountains 3.0](https://www.hackthemountain.tech/) 🏔️
+* Website Management and Comms Team Member at [OpenArchive](https://github.com/OpenArchive) 👩‍💻
 
 ### 💻 I previously worked as
 
