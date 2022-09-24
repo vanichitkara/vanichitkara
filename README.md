@@ -8,12 +8,12 @@ I am a Web Developer, Open Source conitrbutor and an aspiring Software Engineer 
 
 ### 💻 I’m currently working as
 
-* [Major League Hacking](https://fellowship.mlh.io/) Prep Fellow August 2022 Batch 🚀
-* Organizing Team Member at [Hack The Mountains 3.0](https://www.hackthemountain.tech/) 🏔️
+* Club Advisor at [GDSC IGDTUW](https://gdsc.community.dev/indira-gandhi-delhi-technical-university-for-women-delhi/) <img src="https://gdscgescoengg.live/assets/images/resources/4GDSClogo.png" height="20px" width="50px"> - One of the 350+ GDSC Leads across India for the academic year of 2021-22
 * Website Management and Comms Team Member at [OpenArchive](https://github.com/OpenArchive) 👩‍💻
 
 ### 💻 I previously worked as
 
+* [Major League Hacking](https://fellowship.mlh.io/) Prep Fellow August 2022 Batch 🚀
 * Software Engineer Intern at Microsoft <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" height="20px" width="20px">
 * Google Developer Student Club Lead at [GDSC IGDTUW](https://gdsc.community.dev/indira-gandhi-delhi-technical-university-for-women-delhi/) <img src="https://gdscgescoengg.live/assets/images/resources/4GDSClogo.png" height="20px" width="50px"> - One of the 350+ GDSC Leads across India for the academic year of 2021-22
 * Outreachy Intern at [OpenArchive](https://github.com/OpenArchive) - One of the 71 interns selected worldwide for the May 2021 Cohort
