@@ -8,7 +8,7 @@ I am a Web Developer, Open Source conitrbutor and an aspiring Software Engineer 
 
 ### 💻 I’m currently working as
 
-* Club Advisor at [GDSC IGDTUW](https://gdsc.community.dev/indira-gandhi-delhi-technical-university-for-women-delhi/) <img src="https://gdscgescoengg.live/assets/images/resources/4GDSClogo.png" height="20px" width="50px"> - One of the 350+ GDSC Leads across India for the academic year of 2021-22
+* Club Advisor at [GDSC IGDTUW](https://gdsc.community.dev/indira-gandhi-delhi-technical-university-for-women-delhi/) <img src="https://gdscgescoengg.live/assets/images/resources/4GDSClogo.png" height="20px" width="50px">
 * Website Management and Comms Team Member at [OpenArchive](https://github.com/OpenArchive) 👩‍💻
 
 ### 💻 I previously worked as
