@@ -2,7 +2,7 @@
 
 ### ✨ About Me
 
-I am a Web Developer, Open Source conitrbutor and an aspiring Software Engineer having a keen interest in Cloud Computing and Technical Communities.
+I am a Web Developer, Open Source conitrbutor and an aspiring Software Engineer having a keen interest in Open Source and Technical Communities.
 
 🎓 Currently I am pursuing my Bachelors in Electronics and Communication Engineering from Indira Gandhi Delhi Technical Univeristy for Women.
 
@@ -20,7 +20,7 @@ I am a Web Developer, Open Source conitrbutor and an aspiring Software Engineer 
 * Technical Lead at [Minerva, The Technical Forum of IGDTUW](https://github.com/Minerva-2020) - Heading a team of 4 associate web developers along with 2 other co-Leads for managing the [Minerva website](https://minervaforum.in/)
 
 ### 🌱 I'm currently studying 
-Android Development in Kotlin and Java
+Rust Language
 
 ### 📫 How to reach out to me:
 <p>
@@ -30,13 +30,6 @@ Android Development in Kotlin and Java
 <a target="_blank"href="https://www.polywork.com/vanichitkara#/"><img src="https://img.shields.io/badge/polywork-%230077B5.svg?&style=for-the-badge&logo=polywork&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-### 🚀 Time for some stats
-
-![Vani's github stats](https://github-readme-stats.vercel.app/api?username=vanichitkara&show_icons=true&hide_border=true)
-
-![Vani's github streak](https://github-readme-streak-stats.herokuapp.com/?user=vanichitkara&show_icons=true&hide_border=true)
-
-![Vani's github contribution graph](https://activity-graph.herokuapp.com/graph?username=vanichitkara&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
 <!--
 **vanichitkara/vanichitkara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
