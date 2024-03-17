@@ -4,7 +4,7 @@
 
 I am a Software Engineer interested in Open Source Software and Technical Communities.
 
-🎓 Bachelor's in Electronics and Communication Engineering from Indira Gandhi Delhi Technical University for Women.
+🎓 Bachelor's in Electronics and Communication Engineering from Indira Gandhi Delhi Technical University for Women (2023 Graduate).
 
 ### 💻 I’m currently working as
 
