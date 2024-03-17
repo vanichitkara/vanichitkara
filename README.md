@@ -12,9 +12,9 @@ I am a Software Engineer interested in Open Source Software and Technical Commun
 
 ### 💻 I previously worked as
 
-* Software Engineer Intern (Summer 2022) at Microsoft <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" height="25px" width="30px">
+* Software Engineer Intern (Summer 2022) at Microsoft <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" height="20px" width="20px">
 * Outreachy Intern at [OpenArchive](https://github.com/OpenArchive) - One of the 71 interns selected worldwide for the May 2021 Cohort
-* Google Developer Student Club Lead at [GDSC IGDTUW](https://gdsc.community.dev/indira-gandhi-delhi-technical-university-for-women-delhi/) <img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" height="20px" width="50px"> - One of the 350+ GDSC Leads across India for the academic year of 2021-22
+* Google Developer Student Club Lead at [GDSC IGDTUW](https://gdsc.community.dev/indira-gandhi-delhi-technical-university-for-women-delhi/) <img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" height="15px" width="35px">
 * Club Advisor at [GDSC IGDTUW](https://gdsc.community.dev/indira-gandhi-delhi-technical-university-for-women-delhi/) <img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" height="15px" width="35px">
 * [Major League Hacking](https://fellowship.mlh.io/) Prep Fellow August 2022 Batch 🚀
 * Technical Lead at [Minerva, The Technical Forum of IGDTUW](https://github.com/Minerva-2020) - Heading a team of 4 associate web developers along with 2 other co-Leads for managing the [Minerva website](https://minervaforum.in/)
